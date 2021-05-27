@@ -1,0 +1,9 @@
+5
+Cehia: Germania, Austria
+Germania: Austria, Olanda
+Austria: Elvetia
+Elvetia: Italia
+Italia:
+rosu, galben, verde, albastru, portocaliu
+
+
